@@ -1,0 +1,99 @@
+.heading {
+  font-size: 22px;
+  background-image: url("images/background.jpg");
+  margin:auto;
+
+}
+
+.h1 {
+  color: #1b9296;
+  font-family: "comic-sans" ,cursive;
+  font-size: 350%;
+  font-weight:bolder;
+  font-style: oblique;
+  border-style: solid;
+  position: relative;
+  text-align: center;
+  width: 75%;
+  padding: 50px;
+  border: 20px solid #000;
+  border-spacing: 25%;
+}
+
+body{
+  font-family: "comic-sans" ,cursive;
+  background-color:#92f4f7;
+  margin-left: 7em;
+  margin-right: 7em;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 25px;
+}
+
+.waw {
+  width: 17%;
+  float: right;
+}
+
+.oreo-header {
+  width: 75%;
+  border-style:dashed;
+  box-sizing: content-box;
+  clear: both;
+  overflow: auto;
+  text-align: left;
+  padding: 2.5em;
+  margin: auto;
+  background-color: #efefef;
+}
+
+.ingredients {
+  text-align= center;
+  margin: auto;
+  height: 100px;
+  font-family: comic-sans, fantasy;
+}
+
+.olly {
+  list-style-type:square;
+}
+
+li {
+	margin: 0;
+	padding: 36px 0 36px 84px;
+	list-style: none;
+	background-image: url("images/bp2.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
+}
+
+
+.row {
+  border: 2px solid;
+  text-align: center;
+
+}
+
+.canada, .korea, .japan {
+  float: left;
+  margin:auto;
+  height: 660px;
+}
+
+.canada {
+  width: 33%;
+  border-style: double;
+}
+
+.korea {
+  width: 33%;
+  border-style:double;
+  overflow: scroll;
+}
+
+.japan {
+  width: 32%;
+  border-style: double;
+  overflow: scroll;
+}
